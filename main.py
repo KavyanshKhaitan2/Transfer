@@ -1,5 +1,6 @@
 import loading
 
+loading.loading()
 
 button_no = 1;
 
